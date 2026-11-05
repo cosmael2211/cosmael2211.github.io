@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 405 765" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-66.5929,-66.1795)">
+        <g transform="matrix(1.73472e-17,-0.306364,0.321847,1.38778e-17,-244.401,776.5)">
+            <g id="Logo">
+                <g>
+                    <g id="Texte" transform="matrix(1.05278,0,0,1.05278,-105.529,1004.45)">
+                        <text x="469.107px" y="867.123px" style="font-family:'Lobster-Regular', 'Lobster';font-size:476.111px;fill:white;stroke:rgb(5,0,15);stroke-width:3.02px;">V</text>
+                        <text x="762.027px" y="867.123px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:403.372px;fill:white;stroke:rgb(5,0,15);stroke-width:3.02px;">-</text>
+                        <g transform="matrix(403.372,0,0,403.372,2008.78,867.123)">
+                        </g>
+                        <text x="896.353px" y="867.123px" style="font-family:'TimesNewRomanPS-BoldMT', 'Times New Roman', serif;font-weight:700;font-size:403.372px;fill:white;stroke:rgb(5,0,15);stroke-width:3.02px;">Xtr<tspan x="1493.73px 1672.77px " y="867.123px 867.123px ">em</tspan></text>
+                    </g>
+                    <g id="animal" transform="matrix(1.69877,0,0,1.45075,-1308.07,-379.083)">
+                        <path d="M1414.34,928.885C1414.34,928.686 1414.4,928.526 1414.53,928.408C1414.53,928.408 1414.46,928.571 1414.34,928.885ZM1414.34,928.885C1414.24,934.443 1459.52,970.329 1459.52,970.329C1474.92,975.974 1507.41,1012.13 1507.41,1012.13C1613.4,1013.17 1601.82,1062.83 1601.82,1062.83C1601.02,1074.33 1736.81,1084.48 1736.81,1084.48C1748.57,1103.73 1718.63,1131.07 1718.63,1131.07C1733.61,1188.56 1600.56,1206.18 1600.56,1206.18C1600.56,1206.18 1403.14,1215.97 1402.82,1215.27C1072.51,1233.68 825.56,1343.16 825.56,1472.87C825.56,1616.53 1128.69,1702.73 1499.29,1733.16C1725.38,1751.72 1955.5,1701.88 2060.62,1603.79C2157.45,1513.44 2111.68,1372.64 2111.68,1372.64C2111.68,1372.64 2175.13,1533.93 2087.67,1627.06C1986.57,1734.72 1807.23,1787.87 1523.53,1791.83C1050.54,1798.43 666.453,1634.7 666.453,1441.16C666.453,1271.53 962.451,1127.59 1364.12,1096.61C1387.77,1094.81 1406.24,1075.45 1406.94,1051.75C1407.47,1034.21 1407.95,1017.86 1407.95,1017.86C1407.98,1016.99 1408.17,1016.17 1408.5,1015.43C1409.33,1013.48 1409.25,1011.26 1408.27,1009.38C1394.24,981.873 1412.27,934.157 1414.34,928.885Z" style="stroke:rgb(55,0,153);stroke-width:1.98px;"/>
+                        <g transform="matrix(-0.0488598,0.153355,-0.436705,-0.139137,2139.14,1047.99)">
+                            <path d="M1329.62,1133.07C1275.12,1168.28 1329.62,1186.6 1329.62,1230.26C1329.62,1249.36 1281.48,1264.86 1222.18,1264.86C1162.88,1264.86 1114.74,1249.36 1114.74,1230.26C1114.74,1186.6 1251.76,1155.75 1329.62,1133.07Z" style="fill:white;stroke:white;stroke-width:72.17px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
